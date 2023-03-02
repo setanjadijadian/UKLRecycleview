@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UKLRecycleview</string>
+    <string name="name"> Nama </string>
+    <string name="from"> Asal </string>
+    <string name="txt_list">LIST CHARACTER</string>
+    <string name="txt_grid">GRID CHARACTER</string>
+</resources>
